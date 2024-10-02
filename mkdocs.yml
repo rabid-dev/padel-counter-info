@@ -9,6 +9,7 @@ theme:
   logo: assets/raqueta-de-padel-icon.png
   favicon: assets/raqueta-de-padel-icon.png
   name: material
+  language: en
   palette:
     - scheme: default
       toggle:
