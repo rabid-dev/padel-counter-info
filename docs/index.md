@@ -1,17 +1,17 @@
-# Welcome to MkDocs
+# Welcome to Padel Counter Documentation!
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+![Padel Counter](./assets/padelcountertitle.png "Padel Counter"){: style="display:block;margin-left:auto;margin-right:auto;width:75%"}
 
-## Commands
+This is the documentation for Padel Counter, the app I made to track score of padel matches!
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Here you will find all the documentation related to the app.
 
-## Project layout
+You can find **other languages** at the language selector within **the top navigation bar**
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Click one of the links below to start reading!
+
+- [Recommended Setup](./setup.md)
+- [Quick Start Guide](./quickstart.md)
+- [Counter Configuration](./counter/counter.md)
+- [Settings](./settings/index.md)
+- [Help/Report an issue](./help.md)

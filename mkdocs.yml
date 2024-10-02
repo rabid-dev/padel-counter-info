@@ -1,6 +1,13 @@
 site_name: Padel Counter Docs
 site_url: https://padelcounter.rabid.es
+markdown_extensions:
+  - attr_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 theme:
+  logo: assets/raqueta-de-padel-icon.png
+  favicon: assets/raqueta-de-padel-icon.png
   name: material
   palette:
     - scheme: default
@@ -14,6 +21,28 @@ theme:
   features:
     - navigation.instant
     - navigation.instant.progress
-    - navigation.instant.preview
+    - navigation.instant.prefetch
     - navigation.tracking
-    - navigation.tabs
+nav:
+  - Home: index.md
+  - Recommended Setup: setup.md
+  - Quick Start Guide: quickstart.md
+  - Counter configuration:
+    - Match Settings: counter/match.md
+    - Team Select: counter/teams.md
+    - Counter Screen: counter/counter.md
+  - Settings:
+    - General: settings/general.md
+    - Teams: settings/teams.md
+    - Controls: settings/controls.md
+    - Custom Sounds: settings/custom_sounds.md
+    - ITAG Devices: settings/itag.md
+  - Help/Report an issue: help.md
+extra:
+  alternate:
+    - name: English
+      link: https://padelcounter.rabid.es
+      lang: en
+    - name: Spanish
+      link: https://contadorpadel.rabid.es
+      lang: es
