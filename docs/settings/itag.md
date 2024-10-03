@@ -9,7 +9,10 @@ One example of such a device is this one:
 
 ![ITagDevice](../assets/itagdevice.png "ITagDevice"){: style="display:block;margin-left:auto;margin-right:auto;width:30%;padding-top:10px;padding-bottom:10px;"}
 
-Any device with ITAG on their name with a button that is a Bluetooth low energy device will work.
+Any device with ITAG on their name with a button that is a Bluetooth low energy device should work.
+
+!!! warning
+    I can't guarantee that all ITAG devices will work.
 
 They're devices that function via bluetooth with low power consumption and they have a button which we will use to increase or decrease the score of each team.
 
@@ -23,6 +26,9 @@ They're devices that function via bluetooth with low power consumption and they 
     I spent too much time trying to debug them, if someone wants to help making these more reliable please [contact me](../help.md)
 
 To pair them, once you have enabled location and bluetooth on your device you will see the list of available ITAG devices.
+
+!!! note
+    Padel Counter will NEVER use your location to any means. Android requires this permission in order to use Bluetooth Low Energy devices.
 
 You have to pair one for each team by clicking on the assign button and the app will automatically try to connect every time it detects one.
 

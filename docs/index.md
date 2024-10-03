@@ -15,3 +15,10 @@ Click one of the links below to start reading!
 - [Counter Configuration](./counter/counter.md)
 - [Settings](./settings/index.md)
 - [Help/Report an issue](./help.md)
+
+## Support the project
+
+Padel Counter is a free app, but if you want to support the project somehow, you can donate
+any amount you like on my Ko-Fi profile.
+
+[Click here to go to my Ko-Fi profile.](https://ko-fi.com/rabidrabid)
