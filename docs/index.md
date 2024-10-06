@@ -34,5 +34,4 @@ any amount you like on my Ko-Fi profile.
 - Text To Speech by [BeepBooply](https://beepbooply.com/)
 - [Animated background shader](https://www.youtube.com/watch?v=cObwzagwgmA) - by [Bacon and Games](https://www.youtube.com/@baconandgames)
 - [Flame shader](https://www.youtube.com/watch?v=sCIr_58NN48) - by [Heartbeast](https://www.youtube.com/@uheartbeast)
-- [Godot BLE Android Plugin](https://github.com/IM-TWIN/BLE-Android-Plugin), in order to make this app compatible with iTAG - by [francescaromana](https://github.com/francescaromana), [valeriosperati](https://github.com/valeriosperati) and [schembrimax](https://github.com/schembrimax)
 - Special thanks to the [Godot Engine](https://godotengine.org) team and contributors by making the engine in which this app was made
