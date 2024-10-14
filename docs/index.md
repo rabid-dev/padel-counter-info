@@ -35,9 +35,9 @@ any amount you like on my Ko-Fi profile.
 - [Animated background shader](https://www.youtube.com/watch?v=cObwzagwgmA) - by [Bacon and Games](https://www.youtube.com/@baconandgames)
 - [Flame shader](https://www.youtube.com/watch?v=sCIr_58NN48) - by [Heartbeast](https://www.youtube.com/@uheartbeast)
 - For the example custom sounds, the following sounds were used:
-  - [Video Game Cheerful Ending](https://opengameart.org/content/video-game-cheerful-ending)
-  - [Fireworks With Applause Happy People](https://opengameart.org/content/fireworks-with-applause-happy-people)
-  - [Pure Aluminum Warfare Bunker Day 28](https://opengameart.org/content/pure-aluminum-warfare-bunker-day-28)
-  - [Stick to it Day 17](https://opengameart.org/content/stick-to-it-day-17)
-  - [Kenney Music Jingles](https://kenney.nl/assets/music-jingles)
+    - [Video Game Cheerful Ending](https://opengameart.org/content/video-game-cheerful-ending)
+    - [Fireworks With Applause Happy People](https://opengameart.org/content/fireworks-with-applause-happy-people)
+    - [Pure Aluminum Warfare Bunker Day 28](https://opengameart.org/content/pure-aluminum-warfare-bunker-day-28)
+    - [Stick to it Day 17](https://opengameart.org/content/stick-to-it-day-17)
+    - [Kenney Music Jingles](https://kenney.nl/assets/music-jingles)
 - Special thanks to the [Godot Engine](https://godotengine.org) team and contributors by making the engine in which this app was made
