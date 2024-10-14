@@ -8,6 +8,8 @@ Custom sounds are short sounds that will be played on different circumstances, a
 
 In order to use them, remember to enable the [Custom Sounds Setting](./general.md#enable-custom-sounds) at the [General Settings Tab](./general.md).
 
+You can also add some example sounds by clicking `Add examples`.
+
 ## Categories of custom sounds
 
 As of today custom sounds can be played on these events.

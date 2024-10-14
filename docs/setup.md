@@ -19,7 +19,7 @@ Because of this, I recommend getting the following gear.
   This is just an example, anything will do, but the smaller the better so it fits your pocket.
   ![Bluetooth Gamepad Example](./assets/controller.png "Bluetooth Gamepad Example"){: style="display:block;margin-left:auto;margin-right:auto;width:25%;padding-top:10px;padding-bottom:10px;"}
   There are some of them that are used to take pictures remotely, **it is not guaranteed that these will work** because typically the input sent is the same
-  as if you pressed volume up or volume down on your device, and that can't be used as input. (Example of a non-working device below)
+  as if you pressed volume up or volume down on your device, and that can't be used as input. (Example of a **non-working device** below)
   ![Android Camera Shutter](./assets/camerashutter.png "Android Camera Shutter"){: style="display:block;margin-left:auto;margin-right:auto;width:20%;padding-top:10px;padding-bottom:10px;"}
   To be 100% sure, make sure that the input sent by these devices is either a keyboard input or gamepad input. Otherwise it might not work
 
@@ -33,7 +33,5 @@ Inside the app, on the settings menu -> controls tab, map the `Increment Score A
 (More details on how the remapping works on the [Controls](./settings/controls.md) page)
 
 And that's it! Now you can start playing and count your score without having to approach the device.
-
-![Bluetooth Gamepad Example](./assets/pfp.jpg "Bluetooth Gamepad Example"){: style="display:block;margin-left:auto;margin-right:auto;width:25%;padding-top:10px;padding-bottom:10px;"}
 
 Follow the [Quick Start Guide](./quickstart.md) for next steps!
