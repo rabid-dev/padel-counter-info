@@ -34,6 +34,6 @@ Inside the app, on the settings menu -> controls tab, map the `Increment Score A
 
 And that's it! Now you can start playing and count your score without having to approach the device.
 
-![Setup Complete](./assets/padel.gif "Setup Complete"){: style="display:block;margin-left:auto;margin-right:auto;width:20%;padding-top:10px;padding-bottom:10px;"}
+![Setup Complete](./assets/padel.gif "Setup Complete"){: style="display:block;margin-left:auto;margin-right:auto;width:70%;padding-top:10px;padding-bottom:10px;"}
 
 Follow the [Quick Start Guide](./quickstart.md) for next steps!
