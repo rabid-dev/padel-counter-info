@@ -1,8 +1,11 @@
 # Match Settings
 
-In the `Match Settings` screen you will find the following settings:
+In the `Match Settings` screen you can edit the settings for the match. You can also save
+the configuration as a preset for future use.
 
 ![MatchSettings](../assets/matchsettings.png "MatchSettings"){: style="display:block;margin-left:auto;margin-right:auto;width:60%;padding-top:10px;padding-bottom:10px;"}
+
+In this screen you will find the following settings:
 
 ## Game Scoring Settings
 

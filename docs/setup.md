@@ -1,6 +1,7 @@
 # Recommended Setup
 
 ## Summary
+
 This app can be used on any Android device, and as such, you only need one to use it.
 
 However, in order to be usable comfortably during the match, the best setup is the one that allows you to see the
@@ -18,8 +19,11 @@ Because of this, I recommend getting the following gear.
 4. A small remote **bluetooth controller**. The remote bluetooth controller must have some kind of keyboard or gamepad input.
   This is just an example, anything will do, but the smaller the better so it fits your pocket.
   ![Bluetooth Gamepad Example](./assets/controller.png "Bluetooth Gamepad Example"){: style="display:block;margin-left:auto;margin-right:auto;width:25%;padding-top:10px;padding-bottom:10px;"}
+  ![Bluetooth Gamepad Example 2](./assets/8bitdogamepad.jpg "Bluetooth Gamepad Example 2"){: style="display:block;margin-left:auto;margin-right:auto;width:25%;padding-top:10px;padding-bottom:10px;"}
   There are some of them that are used to take pictures remotely, **it is not guaranteed that these will work** because typically the input sent is the same
-  as if you pressed volume up or volume down on your device, and that can't be used as input. (Example of a **non-working device** below)
+  as if you pressed volume up or volume down on your device, and that can't be used as input.
+  
+  (Example of a **non-working device** below)
   ![Android Camera Shutter](./assets/camerashutter.png "Android Camera Shutter"){: style="display:block;margin-left:auto;margin-right:auto;width:20%;padding-top:10px;padding-bottom:10px;"}
   To be 100% sure, make sure that the input sent by these devices is either a keyboard input or gamepad input. Otherwise it might not work
 

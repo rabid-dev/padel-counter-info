@@ -16,12 +16,18 @@ Click one of the links below to start reading!
 - [Settings](./settings/index.md)
 - [Help/Report an issue](./help.md)
 
+## Future updates roadmap
+
+You can check [this Trello board](https://trello.com/b/eJKpHkLC/padel-counter-roadmap) to see what's on the roadmap and what to expect from future updates!
+
 ## Support the project
 
 Padel Counter is a free app, but if you want to support the project somehow, you can donate
 any amount you like on my Ko-Fi profile.
 
 [Click here to go to my Ko-Fi profile.](https://ko-fi.com/rabidrabid)
+
+[Alternatively you can donate via PayPal too!](https://www.paypal.com/donate/?hosted_button_id=XEDL2KNTM34SE&locale.x=en_EN)
 
 ## Credits
 
@@ -35,9 +41,9 @@ any amount you like on my Ko-Fi profile.
 - [Animated background shader](https://www.youtube.com/watch?v=cObwzagwgmA) - by [Bacon and Games](https://www.youtube.com/@baconandgames)
 - [Flame shader](https://www.youtube.com/watch?v=sCIr_58NN48) - by [Heartbeast](https://www.youtube.com/@uheartbeast)
 - For the example custom sounds, the following sounds were used:
-    - [Video Game Cheerful Ending](https://opengameart.org/content/video-game-cheerful-ending)
-    - [Fireworks With Applause Happy People](https://opengameart.org/content/fireworks-with-applause-happy-people)
-    - [Pure Aluminum Warfare Bunker Day 28](https://opengameart.org/content/pure-aluminum-warfare-bunker-day-28)
-    - [Stick to it Day 17](https://opengameart.org/content/stick-to-it-day-17)
-    - [Kenney Music Jingles](https://kenney.nl/assets/music-jingles)
+  - [Video Game Cheerful Ending](https://opengameart.org/content/video-game-cheerful-ending)
+  - [Fireworks With Applause Happy People](https://opengameart.org/content/fireworks-with-applause-happy-people)
+  - [Pure Aluminum Warfare Bunker Day 28](https://opengameart.org/content/pure-aluminum-warfare-bunker-day-28)
+  - [Stick to it Day 17](https://opengameart.org/content/stick-to-it-day-17)
+  - [Kenney Music Jingles](https://kenney.nl/assets/music-jingles)
 - Special thanks to the [Godot Engine](https://godotengine.org) team and contributors by making the engine in which this app was made
