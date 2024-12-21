@@ -34,7 +34,6 @@ nav:
     - Counter Screen: counter/counter.md
   - Settings:
     - General: settings/general.md
-    - Teams: settings/teams.md
     - Controls: settings/controls.md
     - Custom Sounds: settings/custom_sounds.md
   - Help/Report an issue: help.md
